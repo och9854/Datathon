@@ -1,4 +1,4 @@
-# datathon
+# datathon 팔조 🚀
 
 데이터셋: [넷플릭스](https://www.kaggle.com/shivamb/netflix-shows), [디즈니플러스](https://www.kaggle.com/shivamb/disney-movies-and-tv-shows)
 
